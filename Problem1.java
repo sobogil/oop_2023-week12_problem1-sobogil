@@ -1,11 +1,7 @@
 import java.util.*;
 
 public class week13_1 {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
-        // 필요한 자료형을 넣어주세요
-        ArrayList< __________ > list = new ArrayList< __________ >();
+    public static void main(String[] args) {___ >();
         System.out.print("Enter five integers and five doubles: ");
 
         /*
